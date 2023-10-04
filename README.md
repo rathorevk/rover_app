@@ -1,9 +1,9 @@
 # RoverApp
 
-**TODO: Add description**
+## Description
 Sample Rover app using OTP.
 
-## Commands:
+## Commands
 ```
 Steps to run Rover simulator 
 1. iex -S mix
